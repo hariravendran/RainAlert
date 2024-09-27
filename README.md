@@ -36,7 +36,7 @@
 4. **Configuration**:
    Open the configuration file (e.g., `config.py`) and update it with your:
    - OpenWeatherMap API key
-   - Update the latitude and longitude of your location when requesting for weather information using the OpenWeatherMap API
+   - Latitude and longitude of your location
    - Twilio Account SID
    - Twilio Auth Token
    - Twilio phone number
