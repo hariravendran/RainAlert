@@ -1,6 +1,6 @@
 # RainAlert
 
-**RainAlert** is a Python application that sends SMS alerts to your phone, notifying you when it's going to rain in your area. Simply provide your city name, and RainAlert will check the weather forecast using the OpenWeatherMap API and send you an SMS via Twilio if rain is expected that day.
+**RainAlert** is a Python application that sends SMS alerts to your phone, notifying you when it's going to rain in your area. Simply provide your latitude and longitude of your location (From latlong.net or GoogleMaps), and RainAlert will check the weather forecast using the OpenWeatherMap API and send you an SMS via Twilio if rain is expected that day.
 
 ## Features
 
