@@ -57,7 +57,7 @@ To create a standalone executable, use the Inno Compiler. Follow the [Inno Setup
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE]([LICENSE](https://github.com/hariravendran/RainAlert/blob/main/license.txt)) file for details.
 
 ## Contributing
 
